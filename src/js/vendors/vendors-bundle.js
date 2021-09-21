@@ -1,0 +1,6 @@
+import './jquery/jquery-3-4-1.min.js'
+import './modernizr/modernizr-3-6-0.js'
+import './modernizr/modernizr-highcontrast-3-2-0.js'
+import './detectizr/detectizr-2-2-0.js'
+import './font-awesome/font-awesome-5-12-1.js'
+import './slick-slider/slick-slider-1-8-1.js'
