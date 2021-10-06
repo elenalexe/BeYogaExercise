@@ -1,0 +1,17 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
+  .nav-wrapper {
+    margin-left: 4rem;
+  }
+
+  ul {
+    display: flex;
+  }
+
+  li {
+    padding: 0 1rem;
+  }
+}
